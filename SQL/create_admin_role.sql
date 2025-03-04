@@ -1,0 +1,1 @@
+CREATE ROLE admin_user WITH LOGIN PASSWORD 'admin_password' SUPERUSER;
